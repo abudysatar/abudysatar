@@ -15,7 +15,7 @@ Some projects I’m proud of:
 👉 https://perfume-react-cyan.vercel.app
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abudy.satar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdul-rahman-sattar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abudy_satar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abudy.satar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rahman-sattar-96071b2aa?) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abudy_satar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
