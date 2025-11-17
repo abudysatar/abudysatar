@@ -6,9 +6,11 @@ Hi! I’m a Frontend Web Developer who loves turning ideas into clean, modern, a
 
 Some projects I’m proud of:
 🌐 MOVACO – a modern website showcasing responsive design and React/Tailwind UI
+
 👉 https://movaco.vercel.app
 
 🌐 Perfume Store – an e-commerce style React project
+
 👉 https://perfume-react-cyan.vercel.app
 
 ## 🌐 Socials:
