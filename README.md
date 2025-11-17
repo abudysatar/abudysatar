@@ -1,7 +1,7 @@
 <!-- Animated Heading -->
 
 <h1 align="center" style="font-size: 60px; font-weight: bold;">
-  👋 Hi, I'm <span style="font-size: 70px; background: linear-gradient(90deg,#00e1ff,#a600ff); -webkit-background-clip: text; color: transparent;">Abdulrahman</span>
+   Hi,I'm <span style="font-size: 70px; background: linear-gradient(90deg,#00e1ff,#a600ff); -webkit-background-clip: text; color: transparent;">Abdulrahman</span>
 </h1>
 
 <!-- Waving Animation -->
@@ -12,7 +12,7 @@
 
 ---
 
-Hi! I’m a Frontend Web Developer who loves turning ideas into clean, modern, and responsive web experiences. My toolkit includes HTML, CSS, JavaScript, React, and Tailwind CSS.
+ I’m a Frontend Web Developer who loves turning ideas into clean, modern, and responsive web experiences. My toolkit includes HTML, CSS, JavaScript, React, and Tailwind CSS.
 
 * 🌱  I’m currently expanding into **Next.js** development.
 
