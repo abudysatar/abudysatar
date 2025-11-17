@@ -15,7 +15,7 @@ Some projects I’m proud of:
 👉 https://perfume-react-cyan.vercel.app
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abudy.satar?igsh=ZzJpcml1bTdqdmQ2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-sattar-96071b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/abudy_satar?t=TxVhETYx8gmEOm21R8WLhw&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://abudy.satar?igsh=ZzJpcml1bTdqdmQ2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-sattar-96071b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/abudy_satar?t=TxVhETYx8gmEOm21R8WLhw&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
