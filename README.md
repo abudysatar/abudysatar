@@ -4,4 +4,4 @@ Hi! I’m a Frontend Web Developer who loves turning ideas into clean, modern, a
 
 - 🌱  I’m currently expanding into Next.js development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?abudysatar=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abudysatar)](https://github.com/anuraghazra/github-readme-stats)
