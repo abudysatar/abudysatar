@@ -26,6 +26,9 @@
 🌐 **Perfume Store** – an e-commerce style React project
 👉 [https://perfume-react-cyan.vercel.app](https://perfume-react-cyan.vercel.app)
 
+🌐 **Noble Finances** – A modern, responsive financial web app built with React ,Tailwind ,TypeScript and deployed on Vercel.
+👉 [https://noble-finances-gamma.vercel.app/](https://noble-finances-gamma.vercel.app/)
+
 ---
 
 ## 🌐 Socials
